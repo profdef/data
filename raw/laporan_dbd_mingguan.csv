@@ -1,0 +1,313 @@
+id_laporan,nama_puskesmas,tanggal_lapor,kecamatan,jumlah_kasus
+RPT-195,Puskesmas Koto Panjang Ikua Koto,26/02/2024,Koto Tangah,1
+RPT-068,Puskesmas Pegambiran,15/01/2024,Lubuk Begalung ,0
+RPT-190,Puskesmas Lubuk Kilangan,2024-02-19,Lubuk Kilangan,1
+RPT-064,Puskesmas Alai,15-01-2024,Padang Utara,1
+RPT-268,Puskesmas Anak Air,18/03/2024, KOTO TANGAH,1
+RPT-072,puskesmas padang pasir,2024-01-15,padang barat,0
+RPT-222,puskesmas belimbing,04-03-2024,KURANJI ,1
+RPT-037,Puskesmas Parak Karakah,2024-01-08, padang timur,0
+RPT-259,PUSKESMAS LUBUK BEGALUNG,2024-03-11, LUBUK BEGALUNG,1
+RPT-192,PUSKESMAS PADANG PASIR,19/02/2024,Padang Barat,1
+RPT-097,PUSKESMAS AIR DINGIN,29-01-2024, koto tangah,1
+RPT-011,PUSKESMAS RAWANG,2024-01-01,Padang Selatan,1
+RPT-077,Puskesmas Dadok Tunggul Hitam,2024-01-22,Koto Tangah ,0
+RPT-116,Puskesmas Pegambiran,29-01-2024,Lubuk Begalung,1
+RPT-264,PUSKESMAS PADANG PASIR,11-03-2024,Padang Barat,0
+RPT-148,PUSKESMAS ANAK AIR,12-02-2024, KOTO TANGAH,2
+RPT-279,puskesmas air tawar,18/03/2024,Padang Utara ,0
+RPT-002,Puskesmas Lubuk Buaya,01-01-2024,Koto Tangah,0
+RPT-246,puskesmas belimbing,11/03/2024,Kuranji,1
+RPT-076,puskesmas anak air,2024-01-22, Koto Tangah ,1
+RPT-113,Puskesmas Nanggalo,29/01/2024,Nanggalo ,1
+RPT-017,Puskesmas Nanggalo,01/01/2024, Nanggalo,0
+RPT-212,puskesmas pegambiran,26-02-2024,LUBUK BEGALUNG,2
+RPT-083,Puskesmas Rawang,2024-01-22,padang selatan,1
+RPT-242,puskesmas lubuk buaya,11/03/2024,KOTO TANGAH,1
+RPT-278,Puskesmas Ulak Karang,18-03-2024, Padang Utara,0
+RPT-136,Puskesmas Alai,05/02/2024,padang utara ,1
+RPT-099,Puskesmas Koto Panjang Ikua Koto,29-01-2024, KOTO TANGAH,1
+RPT-207,puskesmas air tawar,26-02-2024, Padang Utara,1
+RPT-029,Puskesmas Dadok Tunggul Hitam,08-01-2024,KOTO TANGAH,0
+RPT-193,PUSKESMAS AIR DINGIN,26/02/2024,Koto Tangah ,2
+RPT-270,PUSKESMAS BELIMBING,18/03/2024,kuranji,
+RPT-238,PUSKESMAS LUBUK KILANGAN,04/03/2024, Lubuk Kilangan,1
+RPT-160,PUSKESMAS ALAI,12/02/2024,PADANG UTARA,2
+RPT-147,puskesmas koto panjang ikua koto,12-02-2024,KOTO TANGAH,1
+RPT-261,Puskesmas Pauh,11-03-2024, Pauh ,1
+RPT-043,puskesmas lubuk begalung,2024-01-08, LUBUK BEGALUNG,0
+RPT-010,puskesmas pemancungan,2024-01-01,PADANG SELATAN ,0
+RPT-074,Puskesmas Lubuk Buaya,2024-01-22, koto tangah,1
+RPT-090,PUSKESMAS LAPAI,22-01-2024,Nanggalo,1
+RPT-020,PUSKESMAS PEGAMBIRAN,01/01/2024,Lubuk Begalung,0
+RPT-180,PUSKESMAS ANDALAS,2024-02-19, PADANG TIMUR,2
+RPT-117,Puskesmas Pauh,29/01/2024,pauh,1
+RPT-200,PUSKESMAS AMBACANG,2024-02-26, kuranji ,1
+RPT-281,PUSKESMAS NANGGALO,2024-03-18,Nanggalo,0
+RPT-015,Puskesmas Air Tawar,01/01/2024, Padang Utara,1
+RPT-001,Puskesmas Air Dingin,01-01-2024,Koto Tangah ,1
+RPT-247,Puskesmas Kuranji,11-03-2024,KURANJI,0
+RPT-122,Puskesmas Lubuk Buaya,2024-02-05,Koto Tangah,1
+RPT-142,Puskesmas Lubuk Kilangan,05-02-2024,LUBUK KILANGAN ,1
+RPT-215,PUSKESMAS BUNGUS TELUK KABUNG,2024-02-26,bungus teluk kabung,1
+RPT-036,Puskesmas Andalas,2024-01-08,Padang Timur,1
+RPT-128,puskesmas ambacang,05-02-2024,kuranji,1
+RPT-198,puskesmas belimbing,2024-02-26,kuranji ,2
+RPT-063,Puskesmas Air Tawar,15/01/2024,Padang Utara,0
+RPT-120,PUSKESMAS PADANG PASIR,29/01/2024, PADANG BARAT ,1
+RPT-277,PUSKESMAS PARAK KARAKAH,2024-03-18,Padang Timur,1
+RPT-040,Puskesmas Alai,08-01-2024,Padang Utara,1
+RPT-024,Puskesmas Padang Pasir,01-01-2024,Padang Barat,0
+RPT-079,puskesmas kuranji,2024-01-22,Kuranji,0
+RPT-214,Puskesmas Lubuk Kilangan,2024-02-26, LUBUK KILANGAN ,1
+RPT-288,PUSKESMAS PADANG PASIR,18-03-2024,Padang Barat ,0
+RPT-022,puskesmas lubuk kilangan,01/01/2024,LUBUK KILANGAN ,0
+RPT-135,puskesmas air tawar,05-02-2024,PADANG UTARA ,1
+RPT-102,Puskesmas Belimbing,2024-01-29, Kuranji,1
+RPT-132,puskesmas andalas,2024-02-05,Padang Timur,2
+RPT-262,Puskesmas Lubuk Kilangan,11/03/2024,Lubuk Kilangan,1
+RPT-173,puskesmas dadok tunggul hitam,19/02/2024, KOTO TANGAH ,2
+RPT-282,PUSKESMAS LAPAI,18-03-2024, NANGGALO,1
+RPT-147,puskesmas koto panjang ikua koto,12-02-2024,KOTO TANGAH,1
+RPT-234,Puskesmas Lapai,2024-03-04,nanggalo,1
+RPT-157,Puskesmas Parak Karakah,2024-02-12, Padang Timur,3
+RPT-007,Puskesmas Kuranji,2024-01-01,kuranji,0
+RPT-204,puskesmas andalas,2024-02-26, padang timur ,1
+RPT-260,Puskesmas Pegambiran,2024-03-11, LUBUK BEGALUNG ,0
+RPT-151,puskesmas kuranji,2024-02-12, Kuranji,2
+RPT-075,PUSKESMAS KOTO PANJANG IKUA KOTO,22-01-2024, Koto Tangah,0
+RPT-143,Puskesmas Bungus Teluk Kabung,2024-02-05,bungus teluk kabung,1
+RPT-150,Puskesmas Belimbing,12-02-2024,Kuranji ,2
+RPT-129,Puskesmas Seberang Padang,05-02-2024, Padang Selatan,2
+RPT-085,Puskesmas Parak Karakah,22/01/2024,PADANG TIMUR,1
+RPT-105,PUSKESMAS SEBERANG PADANG,29-01-2024, Padang Selatan ,1
+RPT-071,puskesmas bungus teluk kabung,2024-01-15, Bungus Teluk Kabung ,0
+RPT-078,Puskesmas Belimbing,22-01-2024,kuranji,1
+RPT-060,Puskesmas Andalas,2024-01-15,Padang Timur ,1
+RPT-283,PUSKESMAS LUBUK BEGALUNG,18-03-2024, Lubuk Begalung,1
+RPT-280,PUSKESMAS ALAI,18-03-2024,Padang Utara,1
+RPT-270,PUSKESMAS BELIMBING,18/03/2024,kuranji,
+RPT-288,PUSKESMAS PADANG PASIR,18-03-2024,Padang Barat ,0
+RPT-032,Puskesmas Ambacang,08/01/2024,Kuranji,0
+RPT-087,Puskesmas Air Tawar,22/01/2024,Padang Utara,0
+RPT-069,PUSKESMAS PAUH,15-01-2024,Pauh,1
+RPT-287,PUSKESMAS BUNGUS TELUK KABUNG,18-03-2024,Bungus Teluk Kabung,0
+RPT-167,puskesmas bungus teluk kabung,12-02-2024, bungus teluk kabung,1
+RPT-165,PUSKESMAS PAUH,12-02-2024,Pauh ,2
+RPT-124,PUSKESMAS ANAK AIR,05/02/2024,Koto Tangah,2
+RPT-205,Puskesmas Parak Karakah,2024-02-26,Padang Timur,2
+RPT-217,puskesmas air dingin,2024-03-04, koto tangah,1
+RPT-038,Puskesmas Ulak Karang,08/01/2024, Padang Utara,0
+RPT-219,puskesmas koto panjang ikua koto,04/03/2024, Koto Tangah,1
+RPT-258,PUSKESMAS LAPAI,11-03-2024,Nanggalo,1
+RPT-086,PUSKESMAS ULAK KARANG,22/01/2024, Padang Utara ,1
+RPT-275,Puskesmas Rawang,18/03/2024,padang selatan ,1
+RPT-166,Puskesmas Lubuk Kilangan,12/02/2024,Lubuk Kilangan,1
+RPT-243,Puskesmas Koto Panjang Ikua Koto,2024-03-11,Koto Tangah,1
+RPT-140,Puskesmas Pegambiran,2024-02-05,Lubuk Begalung,2
+RPT-144,PUSKESMAS PADANG PASIR,2024-02-05,padang barat,1
+RPT-185,Puskesmas Nanggalo,19-02-2024,Nanggalo,150
+RPT-133,Puskesmas Parak Karakah,2024-02-05, Padang Timur,2
+RPT-161,Puskesmas Nanggalo,12-02-2024,Nanggalo,2
+RPT-210,Puskesmas Lapai,2024-02-26,Nanggalo ,2
+RPT-172,puskesmas anak air,2024-02-19,koto tangah ,2
+RPT-137,PUSKESMAS NANGGALO,05-02-2024,NANGGALO,1
+RPT-235,Puskesmas Lubuk Begalung,04-03-2024,Lubuk Begalung,1
+RPT-016,puskesmas alai,2024-01-01,Padang Utara,0
+RPT-173,puskesmas dadok tunggul hitam,19/02/2024, KOTO TANGAH ,2
+RPT-149,PUSKESMAS DADOK TUNGGUL HITAM,12/02/2024,Koto Tangah ,1
+RPT-089,puskesmas nanggalo,22-01-2024,Nanggalo,0
+RPT-184,Puskesmas Alai,2024-02-19,PADANG UTARA,1
+RPT-044,puskesmas pegambiran,2024-01-08, Lubuk Begalung,1
+RPT-231,PUSKESMAS AIR TAWAR,2024-03-04, PADANG UTARA ,-1
+RPT-188,puskesmas pegambiran,19-02-2024,Lubuk Begalung ,2
+RPT-114,puskesmas lapai,29-01-2024,Nanggalo,1
+RPT-164,Puskesmas Pegambiran,12-02-2024,Lubuk Begalung ,2
+RPT-177,puskesmas seberang padang,2024-02-19,Padang Selatan,2
+RPT-103,PUSKESMAS KURANJI,29/01/2024,kuranji,1
+RPT-051,Puskesmas Koto Panjang Ikua Koto,15/01/2024,koto tangah ,1
+RPT-172,puskesmas anak air,2024-02-19,koto tangah ,2
+RPT-254,puskesmas ulak karang,2024-03-11,Padang Utara ,1
+RPT-031,Puskesmas Kuranji,2024-01-08,kuranji,1
+RPT-267,Puskesmas Koto Panjang Ikua Koto,18-03-2024,koto tangah,0
+RPT-224,Puskesmas Ambacang,2024-03-04,KURANJI,1
+RPT-141,Puskesmas Pauh,05/02/2024,Pauh,1
+RPT-174,PUSKESMAS BELIMBING,19-02-2024,Kuranji ,2
+RPT-145,Puskesmas Air Dingin,12-02-2024, KOTO TANGAH ,1
+RPT-269,Puskesmas Dadok Tunggul Hitam,18-03-2024,Koto Tangah ,0
+RPT-158,Puskesmas Ulak Karang,12-02-2024,Padang Utara,2
+RPT-194,PUSKESMAS LUBUK BUAYA,26/02/2024,KOTO TANGAH,2
+RPT-109,PUSKESMAS PARAK KARAKAH,2024-01-29,Padang Timur ,1
+RPT-250,puskesmas pemancungan,11-03-2024,Padang Selatan ,1
+RPT-203,Puskesmas Rawang,26/02/2024,Padang Selatan,2
+RPT-152,puskesmas ambacang,12-02-2024,kuranji ,3
+RPT-107,Puskesmas Rawang,29-01-2024,PADANG SELATAN,1
+RPT-119,Puskesmas Bungus Teluk Kabung,29/01/2024,Bungus Teluk Kabung,1
+RPT-030,Puskesmas Belimbing,2024-01-08, Kuranji,0
+RPT-175,PUSKESMAS KURANJI,2024-02-19,Kuranji ,2
+RPT-084,puskesmas andalas,22-01-2024,PADANG TIMUR ,1
+RPT-229,PUSKESMAS PARAK KARAKAH,2024-03-04, Padang Timur,1
+RPT-091,PUSKESMAS LUBUK BEGALUNG,22-01-2024,lubuk begalung,0
+RPT-213,puskesmas pauh,2024-02-26,Pauh ,1
+RPT-186,Puskesmas Lapai,19-02-2024,nanggalo ,2
+RPT-154,Puskesmas Pemancungan,12-02-2024,PADANG SELATAN,4
+RPT-221,PUSKESMAS DADOK TUNGGUL HITAM,04/03/2024,KOTO TANGAH,1
+RPT-049,Puskesmas Air Dingin,15-01-2024,Koto Tangah,0
+RPT-241,puskesmas air dingin,11-03-2024, KOTO TANGAH,0
+RPT-014,Puskesmas Ulak Karang,01/01/2024, Padang Utara,0
+RPT-033,Puskesmas Seberang Padang,08-01-2024,Padang Selatan,0
+RPT-162,Puskesmas Lapai,12-02-2024,NANGGALO,2
+RPT-124,PUSKESMAS ANAK AIR,05/02/2024,Koto Tangah,2
+RPT-248,PUSKESMAS AMBACANG,11-03-2024,Kuranji ,1
+RPT-039,PUSKESMAS AIR TAWAR,2024-01-08,Padang Utara,0
+RPT-130,puskesmas pemancungan,05/02/2024, padang selatan ,2
+RPT-183,PUSKESMAS AIR TAWAR,19-02-2024,padang utara,2
+RPT-009,PUSKESMAS SEBERANG PADANG,2024-01-01,padang selatan,0
+RPT-115,Puskesmas Lubuk Begalung,2024-01-29,Lubuk Begalung,1
+RPT-022,puskesmas lubuk kilangan,01/01/2024,LUBUK KILANGAN ,0
+RPT-285,puskesmas pauh,2024-03-18,Pauh,0
+RPT-109,PUSKESMAS PARAK KARAKAH,2024-01-29,Padang Timur ,1
+RPT-112,Puskesmas Alai,29-01-2024, Padang Utara,0
+RPT-143,Puskesmas Bungus Teluk Kabung,2024-02-05,bungus teluk kabung,1
+RPT-074,Puskesmas Lubuk Buaya,2024-01-22, koto tangah,1
+RPT-082,PUSKESMAS PEMANCUNGAN,22/01/2024,Padang Selatan,1
+RPT-098,Puskesmas Lubuk Buaya,2024-01-29,Koto Tangah,1
+RPT-171,Puskesmas Koto Panjang Ikua Koto,2024-02-19, koto tangah ,2
+RPT-208,puskesmas alai,2024-02-26,padang utara,1
+RPT-138,PUSKESMAS LAPAI,05/02/2024,Nanggalo,2
+RPT-055,Puskesmas Kuranji,15/01/2024, Kuranji,1
+RPT-025,puskesmas air dingin,08-01-2024, koto tangah ,0
+RPT-146,PUSKESMAS LUBUK BUAYA,12/02/2024, Koto Tangah,2
+RPT-052,puskesmas anak air,15/01/2024,KOTO TANGAH ,1
+RPT-088,Puskesmas Alai,22/01/2024,Padang Utara,1
+RPT-191,puskesmas bungus teluk kabung,2024-02-19,Bungus Teluk Kabung,1
+RPT-096,PUSKESMAS PADANG PASIR,22-01-2024,Padang Barat,0
+RPT-050,PUSKESMAS LUBUK BUAYA,2024-01-15,KOTO TANGAH,0
+RPT-176,puskesmas ambacang,2024-02-19,kuranji ,2
+RPT-012,Puskesmas Andalas,01-01-2024,Padang Timur,0
+RPT-276,Puskesmas Andalas,18/03/2024,Padang Timur ,0
+RPT-035,PUSKESMAS RAWANG,2024-01-08,Padang Selatan ,1
+RPT-005,PUSKESMAS DADOK TUNGGUL HITAM,01-01-2024, Koto Tangah,0
+RPT-048,Puskesmas Padang Pasir,2024-01-08,Padang Barat,0
+RPT-061,Puskesmas Parak Karakah,15-01-2024,Padang Timur,0
+RPT-059,puskesmas rawang,15/01/2024, Padang Selatan ,1
+RPT-256,Puskesmas Alai,11-03-2024,Padang Utara,
+RPT-013,Puskesmas Parak Karakah,01/01/2024,padang timur ,1
+RPT-054,PUSKESMAS BELIMBING,2024-01-15,Kuranji,1
+RPT-226,Puskesmas Pemancungan,2024-03-04,Padang Selatan,2
+RPT-053,puskesmas dadok tunggul hitam,15/01/2024,KOTO TANGAH,1
+RPT-184,Puskesmas Alai,2024-02-19,PADANG UTARA,1
+RPT-008,puskesmas ambacang,2024-01-01, Kuranji ,1
+RPT-003,PUSKESMAS KOTO PANJANG IKUA KOTO,2024-01-01,Koto Tangah ,0
+RPT-218,puskesmas lubuk buaya,2024-03-04,koto tangah,1
+RPT-041,Puskesmas Nanggalo,08/01/2024,nanggalo,1
+RPT-286,Puskesmas Lubuk Kilangan,2024-03-18,Lubuk Kilangan ,0
+RPT-225,Puskesmas Seberang Padang,04-03-2024, PADANG SELATAN ,1
+RPT-230,puskesmas ulak karang,04/03/2024, Padang Utara ,1
+RPT-070,puskesmas lubuk kilangan,15/01/2024,lubuk kilangan,0
+RPT-263,Puskesmas Bungus Teluk Kabung,11/03/2024,bungus teluk kabung ,0
+RPT-073,puskesmas air dingin,22-01-2024,Koto Tangah ,1
+RPT-181,PUSKESMAS PARAK KARAKAH,19-02-2024,Padang Timur,2
+RPT-187,PUSKESMAS LUBUK BEGALUNG,2024-02-19, lubuk begalung,1
+RPT-159,puskesmas air tawar,2024-02-12,Padang Utara,1
+RPT-024,Puskesmas Padang Pasir,01-01-2024,Padang Barat,0
+RPT-046,Puskesmas Lubuk Kilangan,08-01-2024, lubuk kilangan,0
+RPT-100,PUSKESMAS ANAK AIR,29/01/2024,Koto Tangah,1
+RPT-220,puskesmas anak air,2024-03-04,Koto Tangah ,1
+RPT-245,Puskesmas Dadok Tunggul Hitam,2024-03-11,koto tangah ,1
+RPT-223,puskesmas kuranji,04/03/2024,Kuranji,1
+RPT-236,Puskesmas Pegambiran,2024-03-04,Lubuk Begalung,1
+RPT-066,Puskesmas Lapai,15/01/2024,Nanggalo,0
+RPT-047,Puskesmas Bungus Teluk Kabung,2024-01-08, BUNGUS TELUK KABUNG,0
+RPT-139,Puskesmas Lubuk Begalung,05/02/2024,Lubuk Begalung,1
+RPT-199,Puskesmas Kuranji,26/02/2024,Kuranji,2
+RPT-034,Puskesmas Pemancungan,08-01-2024,Padang Selatan ,
+RPT-266,PUSKESMAS LUBUK BUAYA,18-03-2024, Koto Tangah ,1
+RPT-127,Puskesmas Kuranji,05/02/2024, KURANJI,2
+RPT-153,PUSKESMAS SEBERANG PADANG,2024-02-12,PADANG SELATAN,3
+RPT-023,puskesmas bungus teluk kabung,01/01/2024,Bungus Teluk Kabung ,0
+RPT-121,Puskesmas Air Dingin,05/02/2024,Koto Tangah,1
+RPT-215,PUSKESMAS BUNGUS TELUK KABUNG,2024-02-26,bungus teluk kabung,1
+RPT-027,Puskesmas Koto Panjang Ikua Koto,08/01/2024,koto tangah,0
+RPT-107,Puskesmas Rawang,29-01-2024,PADANG SELATAN,1
+RPT-057,Puskesmas Seberang Padang,15/01/2024,PADANG SELATAN,0
+RPT-209,PUSKESMAS NANGGALO,26/02/2024, Nanggalo,1
+RPT-058,Puskesmas Pemancungan,15/01/2024,Padang Selatan,1
+RPT-111,Puskesmas Air Tawar,2024-01-29,Padang Utara ,1
+RPT-062,Puskesmas Ulak Karang,15-01-2024,padang utara,0
+RPT-021,PUSKESMAS PAUH,01-01-2024, PAUH ,0
+RPT-197,Puskesmas Dadok Tunggul Hitam,2024-02-26, Koto Tangah,1
+RPT-081,PUSKESMAS SEBERANG PADANG,2024-01-22,PADANG SELATAN,0
+RPT-170,Puskesmas Lubuk Buaya,19-02-2024,Koto Tangah,1
+RPT-056,PUSKESMAS AMBACANG,15-01-2024, KURANJI,0
+RPT-273,PUSKESMAS SEBERANG PADANG,2024-03-18,padang selatan,1
+RPT-239,Puskesmas Bungus Teluk Kabung,04/03/2024,Bungus Teluk Kabung,1
+RPT-028,Puskesmas Anak Air,2024-01-08,koto tangah,1
+RPT-196,PUSKESMAS ANAK AIR,26-02-2024,Koto Tangah,1
+RPT-190,Puskesmas Lubuk Kilangan,2024-02-19,Lubuk Kilangan,1
+RPT-257,PUSKESMAS NANGGALO,2024-03-11, NANGGALO,0
+RPT-253,PUSKESMAS PARAK KARAKAH,11-03-2024,Padang Timur ,1
+RPT-067,Puskesmas Lubuk Begalung,2024-01-15,Lubuk Begalung ,1
+RPT-155,Puskesmas Rawang,12-02-2024,Padang Selatan ,4
+RPT-131,puskesmas rawang,2024-02-05,Padang Selatan,2
+RPT-255,Puskesmas Air Tawar,11/03/2024,Padang Utara,1
+RPT-228,puskesmas andalas,2024-03-04, Padang Timur,1
+RPT-006,puskesmas belimbing,2024-01-01,Kuranji,0
+RPT-272,Puskesmas Ambacang,2024-03-18,kuranji,0
+RPT-004,PUSKESMAS ANAK AIR,01/01/2024,koto tangah,0
+RPT-284,Puskesmas Pegambiran,18-03-2024,Lubuk Begalung,0
+RPT-015,Puskesmas Air Tawar,01/01/2024, Padang Utara,1
+RPT-065,Puskesmas Nanggalo,15-01-2024,NANGGALO,
+RPT-018,puskesmas lapai,01-01-2024, Nanggalo ,0
+RPT-101,Puskesmas Dadok Tunggul Hitam,2024-01-29,Koto Tangah,0
+RPT-093,Puskesmas Pauh,2024-01-22,Pauh,
+RPT-244,PUSKESMAS ANAK AIR,11-03-2024,KOTO TANGAH,0
+RPT-249,puskesmas seberang padang,11/03/2024, padang selatan ,1
+RPT-274,Puskesmas Pemancungan,18-03-2024,padang selatan ,0
+RPT-189,puskesmas pauh,19/02/2024,Pauh,2
+RPT-095,Puskesmas Bungus Teluk Kabung,2024-01-22,Bungus Teluk Kabung ,0
+RPT-201,PUSKESMAS SEBERANG PADANG,26-02-2024,Padang Selatan ,1
+RPT-163,PUSKESMAS LUBUK BEGALUNG,12/02/2024,LUBUK BEGALUNG,2
+RPT-168,PUSKESMAS PADANG PASIR,12-02-2024,Padang Barat ,1
+RPT-211,Puskesmas Lubuk Begalung,26-02-2024, lubuk begalung,1
+RPT-094,PUSKESMAS LUBUK KILANGAN,22/01/2024,Lubuk Kilangan,1
+RPT-156,PUSKESMAS ANDALAS,12/02/2024,Padang Timur ,2
+RPT-202,Puskesmas Pemancungan,26/02/2024, Padang Selatan,2
+RPT-234,Puskesmas Lapai,2024-03-04,nanggalo,1
+RPT-134,PUSKESMAS ULAK KARANG,05/02/2024,PADANG UTARA,1
+RPT-205,Puskesmas Parak Karakah,2024-02-26,Padang Timur,2
+RPT-026,Puskesmas Lubuk Buaya,08/01/2024,koto tangah,1
+RPT-265,Puskesmas Air Dingin,18-03-2024,Koto Tangah ,
+RPT-179,Puskesmas Rawang,19-02-2024,Padang Selatan ,2
+RPT-123,PUSKESMAS KOTO PANJANG IKUA KOTO,2024-02-05,Koto Tangah,1
+RPT-227,Puskesmas Rawang,04/03/2024,Padang Selatan ,1
+RPT-228,puskesmas andalas,2024-03-04, Padang Timur,1
+RPT-042,Puskesmas Lapai,08-01-2024,Nanggalo,0
+RPT-104,puskesmas ambacang,2024-01-29,kuranji,1
+RPT-216,Puskesmas Padang Pasir,26-02-2024,Padang Barat,1
+RPT-233,PUSKESMAS NANGGALO,2024-03-04, Nanggalo,1
+RPT-039,PUSKESMAS AIR TAWAR,2024-01-08,Padang Utara,0
+RPT-080,puskesmas ambacang,2024-01-22,Kuranji,1
+RPT-182,Puskesmas Ulak Karang,19/02/2024,Padang Utara,1
+RPT-108,Puskesmas Andalas,29-01-2024,padang timur,1
+RPT-237,puskesmas pauh,2024-03-04,Pauh,1
+RPT-106,PUSKESMAS PEMANCUNGAN,2024-01-29,Padang Selatan,1
+RPT-125,PUSKESMAS DADOK TUNGGUL HITAM,05-02-2024, koto tangah,2
+RPT-123,PUSKESMAS KOTO PANJANG IKUA KOTO,2024-02-05,Koto Tangah,1
+RPT-178,puskesmas pemancungan,2024-02-19,padang selatan,3
+RPT-126,Puskesmas Belimbing,2024-02-05, kuranji,2
+RPT-163,PUSKESMAS LUBUK BEGALUNG,12/02/2024,LUBUK BEGALUNG,2
+RPT-252,PUSKESMAS ANDALAS,11/03/2024,Padang Timur,1
+RPT-118,PUSKESMAS LUBUK KILANGAN,29/01/2024, Lubuk Kilangan ,1
+RPT-110,Puskesmas Ulak Karang,29/01/2024, PADANG UTARA,1
+RPT-045,Puskesmas Pauh,2024-01-08,Pauh,0
+RPT-271,Puskesmas Kuranji,18-03-2024,kuranji,0
+RPT-232,puskesmas alai,2024-03-04,Padang Utara,1
+RPT-092,puskesmas pegambiran,2024-01-22, LUBUK BEGALUNG,1
+RPT-169,PUSKESMAS AIR DINGIN,2024-02-19,Koto Tangah,1
+RPT-206,Puskesmas Ulak Karang,26/02/2024,Padang Utara,1
+RPT-240,PUSKESMAS PADANG PASIR,2024-03-04,Padang Barat,1
+RPT-251,Puskesmas Rawang,11-03-2024, Padang Selatan,1
+RPT-174,PUSKESMAS BELIMBING,19-02-2024,Kuranji ,2
+RPT-078,Puskesmas Belimbing,22-01-2024,kuranji,1
+RPT-019,Puskesmas Lubuk Begalung,01-01-2024,LUBUK BEGALUNG,0
